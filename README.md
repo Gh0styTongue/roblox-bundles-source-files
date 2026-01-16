@@ -4,7 +4,7 @@ Extracted from [https://roblox.com/](https://roblox.com/). Saved using the Chrom
 
 ### How is this possible?
 
-Because Roblox Corporation forgot to disable sourcemaps in production on the pbs-player 🙃
+Because Roblox Corporation forgot to disable sourcemaps in production on the [https://roblox.com/](https://roblox.com/) 🙃
 
 I've archived them here on GitHub for educational purposes.
 
